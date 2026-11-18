@@ -1,0 +1,1 @@
+var json_NHS_7 = {"type":"FeatureCollection","name":"NHS_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"School":"Noble","Phone no":"34567891","Strength":"100","floor":"4"},"geometry":{"type":"Point","coordinates":[78.577555239312815,17.510183962427824]}}]}

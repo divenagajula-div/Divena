@@ -1,0 +1,1 @@
+var json_JNTUH1_6 = {"type":"FeatureCollection","name":"JNTUH1_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"JNTUH":"University","Phone no":"1234567899","floors":"5","Strength":"50"},"geometry":{"type":"Point","coordinates":[78.388803549313451,17.498642650031957]}}]}
